@@ -21,7 +21,7 @@
 
 | 遊戲 | 平台與年份 | 類型 | 章節 | 狀態 |
 |---|---|---|---|---|
-|勇者鬥惡龍5 Dragon Quest 5|NDS (2008)|RPG|---|Done|
+|[勇者鬥惡龍5 Dragon Quest 5](games/dragon-quest-5/dragon-quest-5-story-chinese.md)|NDS (2008)|RPG|---|Done|
 | （待填） | | | | 撰寫中 |
 
 ## 怎樣讀
