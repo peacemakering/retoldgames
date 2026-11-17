@@ -1,0 +1,312 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="2686" viewBox="0 0 1500 2686" font-family="'Microsoft JhengHei','Noto Sans TC','PingFang TC',sans-serif">
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse">
+  <path d="M0,0 L10,5 L0,10 z" fill="#b9ae9c"/>
+</marker>
+<marker id="arA" viewBox="0 0 10 10" refX="9.2" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse">
+  <path d="M0,0 L10,5 L0,10 z" fill="#b04a33"/>
+</marker>
+</defs>
+<rect width="1500" height="2686" fill="#fbf9f4"/>
+<text x="30" y="58" font-size="34" font-weight="700" fill="#2e2a24" letter-spacing="0.5">《勇者鬥惡龍V：天空的新娘》主線流程</text>
+<text x="32" y="88" font-size="14.5" fill="#6d665c">依《DQ5_主線故事化重述_v4.md》整理　　10 幕・48 個節點・單線推進（無分歧，唯一的選擇在第四幕）</text>
+<line x1="30" y1="108" x2="1470" y2="108" stroke="#ded6c6" stroke-width="1.5"/>
+<rect x="1250" y="30" width="220" height="62" rx="8" fill="#f6efe2" stroke="#ded6c6"/>
+<text x="1262" y="52" font-size="12" fill="#9a9081">閱讀方式</text>
+<text x="1262" y="72" font-size="12.5" fill="#6d665c">左欄：父輩（第一～五幕）</text>
+<text x="1262" y="87" font-size="12.5" fill="#6d665c">右欄：子代（第六～十幕）</text>
+<rect x="30" y="134" width="660" height="542" rx="10" fill="#ffffff" stroke="#ded6c6" stroke-width="1.4"/>
+<path d="M 40,135 H 680 A 9,9 0 0 1 689,144 V 168 H 31 V 144 A 9,9 0 0 1 40,135 Z" fill="#f0e4d0"/>
+<circle cx="62" cy="153" r="11.5" fill="#b04a33"/>
+<text x="62" y="158" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">一</text>
+<text x="84" y="158" font-size="16" font-weight="700" fill="#2e2a24">第一幕　父之死</text>
+<text x="672" y="156" font-size="12" fill="#9a9081" text-anchor="end">阿貝爾 6 歲</text>
+<rect x="48" y="182" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="48" y="191" width="4" height="40" rx="2" fill="#b04a33" opacity="0.75"/>
+<text x="68" y="206" font-size="13.5" font-weight="700" fill="#2e2a24">帕帕斯攜子返鄉</text>
+<text x="68" y="225" font-size="11.5" fill="#6d665c">聖塔羅斯村；阿貝爾初遇比安卡，雷努爾城取得黃金珠</text>
+<line x1="360" y1="240" x2="360" y2="260" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="48" y="266" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="48" y="275" width="4" height="40" rx="2" fill="#b04a33" opacity="0.75"/>
+<text x="68" y="290" font-size="13.5" font-weight="700" fill="#2e2a24">受萊茵哈特王之託</text>
+<text x="68" y="309" font-size="11.5" fill="#6d665c">管教王子亨利；亨利抗拒，寧可把王位讓給弟弟</text>
+<line x1="360" y1="324" x2="360" y2="344" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="48" y="350" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="48" y="359" width="4" height="40" rx="2" fill="#b04a33" opacity="0.75"/>
+<text x="68" y="374" font-size="13.5" font-weight="700" fill="#2e2a24">亨利遭綁</text>
+<text x="68" y="393" font-size="11.5" fill="#6d665c">太后主謀，轉賣給光之教團</text>
+<line x1="360" y1="408" x2="360" y2="428" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="48" y="434" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="48" y="443" width="4" height="40" rx="2" fill="#b04a33" opacity="0.75"/>
+<text x="68" y="458" font-size="13.5" font-weight="700" fill="#2e2a24">古代遺跡的牢房</text>
+<text x="68" y="477" font-size="11.5" fill="#6d665c">阿貝爾先找到亨利，帕帕斯隨後趕到</text>
+<line x1="360" y1="492" x2="360" y2="512" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="48" y="518" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="48" y="527" width="4" height="40" rx="2" fill="#b04a33" opacity="0.75"/>
+<text x="68" y="542" font-size="13.5" font-weight="700" fill="#2e2a24">蓋馬現身</text>
+<text x="68" y="561" font-size="11.5" fill="#6d665c">帕帕斯倒下；遺言「母親瑪莎還活着」</text>
+<line x1="360" y1="576" x2="360" y2="596" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="48" y="602" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="48" y="611" width="4" height="40" rx="2" fill="#b04a33" opacity="0.75"/>
+<text x="68" y="626" font-size="13.5" font-weight="700" fill="#2e2a24">黃金珠被毀</text>
+<text x="68" y="645" font-size="11.5" fill="#6d665c">阿貝爾與亨利被帶走 → 十年勞役</text>
+<rect x="30" y="704" width="660" height="374" rx="10" fill="#ffffff" stroke="#ded6c6" stroke-width="1.4"/>
+<path d="M 40,705 H 680 A 9,9 0 0 1 689,714 V 738 H 31 V 714 A 9,9 0 0 1 40,705 Z" fill="#f0e4d0"/>
+<circle cx="62" cy="723" r="11.5" fill="#8a6f52"/>
+<text x="62" y="728" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">二</text>
+<text x="84" y="728" font-size="16" font-weight="700" fill="#2e2a24">第二幕　十年勞役</text>
+<rect x="48" y="752" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="48" y="761" width="4" height="40" rx="2" fill="#8a6f52" opacity="0.75"/>
+<text x="68" y="776" font-size="13.5" font-weight="700" fill="#2e2a24">光之團體的勞役營</text>
+<text x="68" y="795" font-size="11.5" fill="#6d665c">以「希望之國」為名，四處擄人為工</text>
+<line x1="360" y1="810" x2="360" y2="830" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="48" y="836" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="48" y="845" width="4" height="40" rx="2" fill="#8a6f52" opacity="0.75"/>
+<text x="68" y="860" font-size="13.5" font-weight="700" fill="#2e2a24">為救勞工瑪麗出手</text>
+<text x="68" y="879" font-size="11.5" fill="#6d665c">兩人被關進監獄</text>
+<line x1="360" y1="894" x2="360" y2="914" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="48" y="920" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="48" y="929" width="4" height="40" rx="2" fill="#8a6f52" opacity="0.75"/>
+<text x="68" y="944" font-size="13.5" font-weight="700" fill="#2e2a24">瑪麗之兄以木材助逃</text>
+<text x="68" y="963" font-size="11.5" fill="#6d665c">順水漂流，修道院修女救起</text>
+<line x1="360" y1="978" x2="360" y2="998" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="48" y="1004" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="48" y="1013" width="4" height="40" rx="2" fill="#8a6f52" opacity="0.75"/>
+<text x="68" y="1028" font-size="13.5" font-weight="700" fill="#2e2a24">瑪麗受洗為瑪麗亞</text>
+<text x="68" y="1047" font-size="11.5" fill="#6d665c">阿貝爾出發尋母；亨利隨行</text>
+<rect x="30" y="1106" width="660" height="374" rx="10" fill="#ffffff" stroke="#ded6c6" stroke-width="1.4"/>
+<path d="M 40,1107 H 680 A 9,9 0 0 1 689,1116 V 1140 H 31 V 1116 A 9,9 0 0 1 40,1107 Z" fill="#f0e4d0"/>
+<circle cx="62" cy="1125" r="11.5" fill="#5f7a6a"/>
+<text x="62" y="1130" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">三</text>
+<text x="84" y="1130" font-size="16" font-weight="700" fill="#2e2a24">第三幕　尋母與身世</text>
+<rect x="48" y="1154" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="48" y="1163" width="4" height="40" rx="2" fill="#5f7a6a" opacity="0.75"/>
+<text x="68" y="1178" font-size="13.5" font-weight="700" fill="#2e2a24">奧拉克貝里・算命婆婆</text>
+<text x="68" y="1197" font-size="11.5" fill="#6d665c">「她仍健在，正等着與你相見」→ 往北即是故鄉</text>
+<line x1="360" y1="1212" x2="360" y2="1232" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="48" y="1238" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="48" y="1247" width="4" height="40" rx="2" fill="#5f7a6a" opacity="0.75"/>
+<text x="68" y="1262" font-size="13.5" font-weight="700" fill="#2e2a24">故鄉已成廢墟</text>
+<text x="68" y="1281" font-size="11.5" fill="#6d665c">萊茵哈特報復，整村燒毀，只剩教堂</text>
+<line x1="360" y1="1296" x2="360" y2="1316" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="48" y="1322" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="48" y="1331" width="4" height="40" rx="2" fill="#5f7a6a" opacity="0.75"/>
+<text x="68" y="1346" font-size="13.5" font-weight="700" fill="#2e2a24">洞穴：天空之劍與遺書</text>
+<text x="68" y="1365" font-size="11.5" fill="#6d665c">觸劍無反應 → 他不是勇者</text>
+<line x1="360" y1="1380" x2="360" y2="1400" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="48" y="1406" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="48" y="1415" width="4" height="40" rx="2" fill="#5f7a6a" opacity="0.75"/>
+<text x="68" y="1430" font-size="13.5" font-weight="700" fill="#2e2a24">目標被改寫</text>
+<text x="68" y="1449" font-size="11.5" fill="#6d665c">需要「勇者＋天空裝備」，同時要找到母親</text>
+<rect x="30" y="1508" width="660" height="542" rx="10" fill="#ffffff" stroke="#ded6c6" stroke-width="1.4"/>
+<path d="M 40,1509 H 680 A 9,9 0 0 1 689,1518 V 1542 H 31 V 1518 A 9,9 0 0 1 40,1509 Z" fill="#f0e4d0"/>
+<circle cx="62" cy="1527" r="11.5" fill="#8a6f52"/>
+<text x="62" y="1532" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">四</text>
+<text x="84" y="1532" font-size="16" font-weight="700" fill="#2e2a24">第四幕　兩個新娘</text>
+<rect x="48" y="1556" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="48" y="1565" width="4" height="40" rx="2" fill="#8a6f52" opacity="0.75"/>
+<text x="68" y="1580" font-size="13.5" font-weight="700" fill="#2e2a24">潛入萊茵哈特</text>
+<text x="68" y="1599" font-size="11.5" fill="#6d665c">地牢裡的太后＝十年前的主謀</text>
+<line x1="360" y1="1614" x2="360" y2="1634" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="48" y="1640" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="48" y="1649" width="4" height="40" rx="2" fill="#8a6f52" opacity="0.75"/>
+<text x="68" y="1664" font-size="13.5" font-weight="700" fill="#2e2a24">拉之鏡</text>
+<text x="68" y="1683" font-size="11.5" fill="#6d665c">假太后現出原形 → 擊破</text>
+<line x1="360" y1="1698" x2="360" y2="1718" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="48" y="1724" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="48" y="1733" width="4" height="40" rx="2" fill="#8a6f52" opacity="0.75"/>
+<text x="68" y="1748" font-size="13.5" font-weight="700" fill="#2e2a24">迪爾改革・亨利讓位</text>
+<text x="68" y="1767" font-size="11.5" fill="#6d665c">瑪麗亞返修道院</text>
+<line x1="360" y1="1782" x2="360" y2="1802" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="48" y="1808" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="48" y="1817" width="4" height="40" rx="2" fill="#8a6f52" opacity="0.75"/>
+<text x="68" y="1832" font-size="13.5" font-weight="700" fill="#2e2a24">殺人豹歸還帕帕斯之劍</text>
+<text x="68" y="1851" font-size="11.5" fill="#6d665c">老家那隻貓守劍十年；習得魯拉</text>
+<line x1="360" y1="1866" x2="360" y2="1886" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="48" y="1892" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="48" y="1901" width="4" height="40" rx="2" fill="#8a6f52" opacity="0.75"/>
+<text x="68" y="1916" font-size="13.5" font-weight="700" fill="#2e2a24">薩拉波納招親</text>
+<text x="68" y="1935" font-size="11.5" fill="#6d665c">弗洛拉＝天空之盾／比安卡＝童年</text>
+<line x1="360" y1="1950" x2="360" y2="1970" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="48" y="1976" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="48" y="1985" width="4" height="40" rx="2" fill="#8a6f52" opacity="0.75"/>
+<text x="68" y="2000" font-size="13.5" font-weight="700" fill="#2e2a24">選擇比安卡</text>
+<text x="68" y="2019" font-size="11.5" fill="#6d665c">婚禮 → 取得天空之盾</text>
+<rect x="30" y="2078" width="660" height="458" rx="10" fill="#ffffff" stroke="#ded6c6" stroke-width="1.4"/>
+<path d="M 40,2079 H 680 A 9,9 0 0 1 689,2088 V 2112 H 31 V 2088 A 9,9 0 0 1 40,2079 Z" fill="#f0e4d0"/>
+<circle cx="62" cy="2097" r="11.5" fill="#b04a33"/>
+<text x="62" y="2102" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">五</text>
+<text x="84" y="2102" font-size="16" font-weight="700" fill="#2e2a24">第五幕　王位與石化</text>
+<rect x="48" y="2126" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="48" y="2135" width="4" height="40" rx="2" fill="#b04a33" opacity="0.75"/>
+<text x="68" y="2150" font-size="13.5" font-weight="700" fill="#2e2a24">迪爾巴多・艾西斯女王讀心</text>
+<text x="68" y="2169" font-size="11.5" fill="#6d665c">揭曉：他是古蘭巴尼亞的王子</text>
+<line x1="360" y1="2184" x2="360" y2="2204" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="48" y="2210" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="48" y="2219" width="4" height="40" rx="2" fill="#b04a33" opacity="0.75"/>
+<text x="68" y="2234" font-size="13.5" font-weight="700" fill="#2e2a24">古蘭巴尼亞即位</text>
+<text x="68" y="2253" font-size="11.5" fill="#6d665c">通過試煉洞穴，取得王家之證</text>
+<line x1="360" y1="2268" x2="360" y2="2288" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="48" y="2294" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="48" y="2303" width="4" height="40" rx="2" fill="#b04a33" opacity="0.75"/>
+<text x="68" y="2318" font-size="13.5" font-weight="700" fill="#2e2a24">雷克斯・薩巴塔出生</text>
+<text x="68" y="2337" font-size="11.5" fill="#6d665c">龍鳳胎</text>
+<line x1="360" y1="2352" x2="360" y2="2372" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="48" y="2378" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="48" y="2387" width="4" height="40" rx="2" fill="#b04a33" opacity="0.75"/>
+<text x="68" y="2402" font-size="13.5" font-weight="700" fill="#2e2a24">慶典夜酒中被下藥</text>
+<text x="68" y="2421" font-size="11.5" fill="#6d665c">比安卡被加米擄走（孩子已先被送走）</text>
+<line x1="360" y1="2436" x2="360" y2="2456" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="48" y="2462" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="48" y="2471" width="4" height="40" rx="2" fill="#b04a33" opacity="0.75"/>
+<text x="68" y="2486" font-size="13.5" font-weight="700" fill="#2e2a24">塔中決戰</text>
+<text x="68" y="2505" font-size="11.5" fill="#6d665c">加米石化自己與兩人 → 主角停格八年</text>
+<rect x="790" y="134" width="660" height="374" rx="10" fill="#ffffff" stroke="#ded6c6" stroke-width="1.4"/>
+<path d="M 800,135 H 1440 A 9,9 0 0 1 1449,144 V 168 H 791 V 144 A 9,9 0 0 1 800,135 Z" fill="#f0e4d0"/>
+<circle cx="822" cy="153" r="11.5" fill="#8a6f52"/>
+<text x="822" y="158" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">六</text>
+<text x="844" y="158" font-size="16" font-weight="700" fill="#2e2a24">第六幕　八年之後</text>
+<rect x="808" y="182" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="808" y="191" width="4" height="40" rx="2" fill="#8a6f52" opacity="0.75"/>
+<text x="828" y="206" font-size="13.5" font-weight="700" fill="#2e2a24">石像被富豪買走</text>
+<text x="828" y="225" font-size="11.5" fill="#6d665c">能看、能聽、不能動；看着別人家的孩子長大</text>
+<line x1="1120" y1="240" x2="1120" y2="260" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="808" y="266" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="808" y="275" width="4" height="40" rx="2" fill="#8a6f52" opacity="0.75"/>
+<text x="828" y="290" font-size="13.5" font-weight="700" fill="#2e2a24">桑丘帶長大的龍鳳胎尋回</text>
+<text x="828" y="309" font-size="11.5" fill="#6d665c">走遍世界，最後在拍賣紀錄裡找到</text>
+<line x1="1120" y1="324" x2="1120" y2="344" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="808" y="350" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="808" y="359" width="4" height="40" rx="2" fill="#8a6f52" opacity="0.75"/>
+<text x="828" y="374" font-size="13.5" font-weight="700" fill="#2e2a24">斯特羅斯之杖</text>
+<text x="828" y="393" font-size="11.5" fill="#6d665c">石化解除</text>
+<line x1="1120" y1="408" x2="1120" y2="428" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="808" y="434" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="808" y="443" width="4" height="40" rx="2" fill="#8a6f52" opacity="0.75"/>
+<text x="828" y="458" font-size="13.5" font-weight="700" fill="#2e2a24">雷克斯＝傳說勇者</text>
+<text x="828" y="477" font-size="11.5" fill="#6d665c">能裝備天空之劍</text>
+<rect x="790" y="536" width="660" height="542" rx="10" fill="#ffffff" stroke="#ded6c6" stroke-width="1.4"/>
+<path d="M 800,537 H 1440 A 9,9 0 0 1 1449,546 V 570 H 791 V 546 A 9,9 0 0 1 800,537 Z" fill="#f0e4d0"/>
+<circle cx="822" cy="555" r="11.5" fill="#5f7a6a"/>
+<text x="822" y="560" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">七</text>
+<text x="844" y="560" font-size="16" font-weight="700" fill="#2e2a24">第七幕　天空之城</text>
+<rect x="808" y="584" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="808" y="593" width="4" height="40" rx="2" fill="#5f7a6a" opacity="0.75"/>
+<text x="828" y="608" font-size="13.5" font-weight="700" fill="#2e2a24">艾爾海文四長老</text>
+<text x="828" y="627" font-size="11.5" fill="#6d665c">三界與魔界之門的真相；母親是門的鑰匙</text>
+<line x1="1120" y1="642" x2="1120" y2="662" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="808" y="668" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="808" y="677" width="4" height="40" rx="2" fill="#5f7a6a" opacity="0.75"/>
+<text x="828" y="692" font-size="13.5" font-weight="700" fill="#2e2a24">熔岩法杖開山</text>
+<text x="828" y="711" font-size="11.5" fill="#6d665c">進入沉在湖底的天空之城</text>
+<line x1="1120" y1="726" x2="1120" y2="746" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="808" y="752" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="808" y="761" width="4" height="40" rx="2" fill="#5f7a6a" opacity="0.75"/>
+<text x="828" y="776" font-size="13.5" font-weight="700" fill="#2e2a24">遇「天空之民」普山</text>
+<text x="828" y="795" font-size="11.5" fill="#6d665c">查出黃金珠少一顆</text>
+<line x1="1120" y1="810" x2="1120" y2="830" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="808" y="836" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="808" y="845" width="4" height="40" rx="2" fill="#5f7a6a" opacity="0.75"/>
+<text x="828" y="860" font-size="13.5" font-weight="700" fill="#2e2a24">妖精村 → 人心之畫</text>
+<text x="828" y="879" font-size="11.5" fill="#6d665c">回到過去的故鄉</text>
+<line x1="1120" y1="894" x2="1120" y2="914" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="808" y="920" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="808" y="929" width="4" height="40" rx="2" fill="#5f7a6a" opacity="0.75"/>
+<text x="828" y="944" font-size="13.5" font-weight="700" fill="#2e2a24">與父親的第二次對話</text>
+<text x="828" y="963" font-size="11.5" fill="#6d665c">真假黃金珠互換；當年的陌生人＝未來的自己</text>
+<line x1="1120" y1="978" x2="1120" y2="998" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="808" y="1004" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="808" y="1013" width="4" height="40" rx="2" fill="#5f7a6a" opacity="0.75"/>
+<text x="828" y="1028" font-size="13.5" font-weight="700" fill="#2e2a24">天空之城重新升空</text>
+<rect x="790" y="1106" width="660" height="374" rx="10" fill="#ffffff" stroke="#ded6c6" stroke-width="1.4"/>
+<path d="M 800,1107 H 1440 A 9,9 0 0 1 1449,1116 V 1140 H 791 V 1116 A 9,9 0 0 1 800,1107 Z" fill="#f0e4d0"/>
+<circle cx="822" cy="1125" r="11.5" fill="#b04a33"/>
+<text x="822" y="1130" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">八</text>
+<text x="844" y="1130" font-size="16" font-weight="700" fill="#2e2a24">第八幕　魔界之門</text>
+<rect x="808" y="1154" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="808" y="1163" width="4" height="40" rx="2" fill="#b04a33" opacity="0.75"/>
+<text x="828" y="1178" font-size="13.5" font-weight="700" fill="#2e2a24">波普魯之塔</text>
+<text x="828" y="1197" font-size="11.5" fill="#6d665c">奪回龍之寶珠；鋼茲、蓋馬相繼倒下</text>
+<line x1="1120" y1="1212" x2="1120" y2="1232" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="808" y="1238" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="808" y="1247" width="4" height="40" rx="2" fill="#b04a33" opacity="0.75"/>
+<text x="828" y="1262" font-size="13.5" font-weight="700" fill="#2e2a24">普山＝龍神</text>
+<text x="828" y="1281" font-size="11.5" fill="#6d665c">交付「天空之靈」</text>
+<line x1="1120" y1="1296" x2="1120" y2="1316" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="808" y="1322" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="808" y="1331" width="4" height="40" rx="2" fill="#b04a33" opacity="0.75"/>
+<text x="828" y="1346" font-size="13.5" font-weight="700" fill="#2e2a24">王之城</text>
+<text x="828" y="1365" font-size="11.5" fill="#6d665c">擊破假瑪莎 → 大教祖伊布爾</text>
+<line x1="1120" y1="1380" x2="1120" y2="1400" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="808" y="1406" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="808" y="1415" width="4" height="40" rx="2" fill="#b04a33" opacity="0.75"/>
+<text x="828" y="1430" font-size="13.5" font-weight="700" fill="#2e2a24">生命戒指</text>
+<text x="828" y="1449" font-size="11.5" fill="#6d665c">瑪莎的聲音：「忘了我，快樂地活下去」</text>
+<rect x="790" y="1508" width="660" height="542" rx="10" fill="#ffffff" stroke="#ded6c6" stroke-width="1.4"/>
+<path d="M 800,1509 H 1440 A 9,9 0 0 1 1449,1518 V 1542 H 791 V 1518 A 9,9 0 0 1 800,1509 Z" fill="#f0e4d0"/>
+<circle cx="822" cy="1527" r="11.5" fill="#b04a33"/>
+<text x="822" y="1532" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">九</text>
+<text x="844" y="1532" font-size="16" font-weight="700" fill="#2e2a24">第九幕　最後一戰</text>
+<rect x="808" y="1556" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="808" y="1565" width="4" height="40" rx="2" fill="#b04a33" opacity="0.75"/>
+<text x="828" y="1580" font-size="13.5" font-weight="700" fill="#2e2a24">生命戒指解咒</text>
+<text x="828" y="1599" font-size="11.5" fill="#6d665c">比安卡歸來；她被石化十年，他八年</text>
+<line x1="1120" y1="1614" x2="1120" y2="1634" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="808" y="1640" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="808" y="1649" width="4" height="40" rx="2" fill="#b04a33" opacity="0.75"/>
+<text x="828" y="1664" font-size="13.5" font-weight="700" fill="#2e2a24">海之神殿取三戒</text>
+<text x="828" y="1683" font-size="11.5" fill="#6d665c">魔界之門開啟</text>
+<line x1="1120" y1="1698" x2="1120" y2="1718" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="808" y="1724" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="808" y="1733" width="4" height="40" rx="2" fill="#b04a33" opacity="0.75"/>
+<text x="828" y="1748" font-size="13.5" font-weight="700" fill="#2e2a24">魔界・哲漢男村</text>
+<text x="828" y="1767" font-size="11.5" fill="#6d665c">「村裡的水是瑪莎引來的」</text>
+<line x1="1120" y1="1782" x2="1120" y2="1802" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="808" y="1808" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="808" y="1817" width="4" height="40" rx="2" fill="#b04a33" opacity="0.75"/>
+<text x="828" y="1832" font-size="13.5" font-weight="700" fill="#2e2a24">魔王城見到瑪莎</text>
+<text x="828" y="1851" font-size="11.5" fill="#6d665c">火球落下，她被擊倒</text>
+<line x1="1120" y1="1866" x2="1120" y2="1886" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="808" y="1892" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="808" y="1901" width="4" height="40" rx="2" fill="#b04a33" opacity="0.75"/>
+<text x="828" y="1916" font-size="13.5" font-weight="700" fill="#2e2a24">兩場惡戰</text>
+<text x="828" y="1935" font-size="11.5" fill="#6d665c">米爾多拉斯倒下</text>
+<line x1="1120" y1="1950" x2="1120" y2="1970" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="808" y="1976" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="808" y="1985" width="4" height="40" rx="2" fill="#b04a33" opacity="0.75"/>
+<text x="828" y="2000" font-size="13.5" font-weight="700" fill="#2e2a24">瑪莎轉向帕帕斯</text>
+<text x="828" y="2019" font-size="11.5" fill="#6d665c">一家目送；眼裡只有信任與愛</text>
+<rect x="790" y="2078" width="660" height="290" rx="10" fill="#ffffff" stroke="#ded6c6" stroke-width="1.4"/>
+<path d="M 800,2079 H 1440 A 9,9 0 0 1 1449,2088 V 2112 H 791 V 2088 A 9,9 0 0 1 800,2079 Z" fill="#f0e4d0"/>
+<circle cx="822" cy="2097" r="11.5" fill="#5f7a6a"/>
+<text x="822" y="2102" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">十</text>
+<text x="844" y="2102" font-size="16" font-weight="700" fill="#2e2a24">第十幕　重生</text>
+<rect x="808" y="2126" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="808" y="2135" width="4" height="40" rx="2" fill="#5f7a6a" opacity="0.75"/>
+<text x="828" y="2150" font-size="13.5" font-weight="700" fill="#2e2a24">回到天空之城</text>
+<text x="828" y="2169" font-size="11.5" fill="#6d665c">龍神道謝：他對人類的看法已經改變</text>
+<line x1="1120" y1="2184" x2="1120" y2="2204" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="808" y="2210" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="808" y="2219" width="4" height="40" rx="2" fill="#5f7a6a" opacity="0.75"/>
+<text x="828" y="2234" font-size="13.5" font-weight="700" fill="#2e2a24">巡遊世界</text>
+<text x="828" y="2253" font-size="11.5" fill="#6d665c">宣告魔王終結</text>
+<line x1="1120" y1="2268" x2="1120" y2="2288" stroke="#b9ae9c" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="808" y="2294" width="624" height="58" rx="6" fill="#fdfcfa" stroke="#e2dbcd" stroke-width="1.1"/>
+<rect x="808" y="2303" width="4" height="40" rx="2" fill="#5f7a6a" opacity="0.75"/>
+<text x="828" y="2318" font-size="13.5" font-weight="700" fill="#2e2a24">古蘭巴尼亞全國歡慶</text>
+<text x="828" y="2337" font-size="11.5" fill="#6d665c">阿貝爾與比安卡共舞，孩子在旁邊奔跑</text>
+<line x1="360" y1="676" x2="360" y2="698" stroke="#b9ae9c" stroke-width="2" marker-end="url(#arA)"/>
+<line x1="360" y1="1078" x2="360" y2="1100" stroke="#b9ae9c" stroke-width="2" marker-end="url(#arA)"/>
+<line x1="360" y1="1480" x2="360" y2="1502" stroke="#b9ae9c" stroke-width="2" marker-end="url(#arA)"/>
+<line x1="360" y1="2050" x2="360" y2="2072" stroke="#b9ae9c" stroke-width="2" marker-end="url(#arA)"/>
+<line x1="1120" y1="508" x2="1120" y2="530" stroke="#b9ae9c" stroke-width="2" marker-end="url(#arA)"/>
+<line x1="1120" y1="1078" x2="1120" y2="1100" stroke="#b9ae9c" stroke-width="2" marker-end="url(#arA)"/>
+<line x1="1120" y1="1480" x2="1120" y2="1502" stroke="#b9ae9c" stroke-width="2" marker-end="url(#arA)"/>
+<line x1="1120" y1="2050" x2="1120" y2="2072" stroke="#b9ae9c" stroke-width="2" marker-end="url(#arA)"/>
+<path d="M 360 2536 V 2510 H 740 V 321 H 782" fill="none" stroke="#b04a33" stroke-width="2.2" marker-end="url(#arA)"/>
+<g transform="rotate(-90 740 1415.5)"><text x="746" y="1415.5" font-size="12" font-weight="700" fill="#b04a33" text-anchor="middle">石化八年・子代接班</text></g>
+<line x1="30" y1="2584" x2="1470" y2="2584" stroke="#ded6c6" stroke-width="1"/>
+<text x="30" y="2604" font-size="12" font-weight="700" fill="#9a9081">原文尚有兩處歧義，圖上未強行接線</text>
+<text x="30" y="2626" font-size="11.5" fill="#6d665c">① 假太后與地牢裡的太后是否同一人：文中先問「住在宮殿裡的太后又是誰」，後又說「他根本不知道地牢裡還有一個太后」。</text>
+<text x="30" y="2646" font-size="11.5" fill="#6d665c">② 弗洛拉最後「與他結婚」的「他」指誰：原文代名詞不明，可能是雷克斯，也可能是省略了主語。</text>
+</svg>
