@@ -21,7 +21,8 @@
 
 | 遊戲 | 平台與年份 | 類型 | 章節 | 狀態 |
 |---|---|---|---|---|
-|[勇者鬥惡龍5 Dragon Quest 5](games/dragon-quest-5/dragon-quest-5-story-chinese.md)|NDS (2008)|RPG|---|Done|
+|[勇者鬥惡龍5 Dragon Quest 5](games/dragon-quest-5/readme.md)|NDS (2008)|RPG|---|Done|
+|福爾摩斯 The Lost Files of Sherlock Holmes: The Case of the Serrated Scalpel |PC Dos (1992)|ADV|--- | 撰寫中 |
 | （待填） | | | | 撰寫中 |
 
 ## 怎樣讀
